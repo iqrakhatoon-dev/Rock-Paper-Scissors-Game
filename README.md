@@ -18,3 +18,6 @@ A fun Rock Paper Scissors game where the user plays against the computer.
 - Conditional logic
 - Event listeners
 - DOM updates
+
+- Author - Iqra Khatoon
+
