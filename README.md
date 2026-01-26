@@ -19,5 +19,6 @@ A fun Rock Paper Scissors game where the user plays against the computer.
 - Event listeners
 - DOM updates
 
-- Author - Iqra Khatoon
+  Author - Iqra Khatoon
+
 
